@@ -1,3 +1,3 @@
 # Curso
 
-Teste e Usos da Funcionalidades do Git/Github
+Teste e Uso da Funcionalidades do Git/Github
